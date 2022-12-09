@@ -10,7 +10,7 @@
         "bcryptjs": "^2.1.0",
         "body-parser": "^1.13.2",
         "cors": "^2.8.1",
-        "express": "^4.13.0",
+        "express": "^4.17.3",
         "express-jwt": "^3.0.1",
         "jsonwebtoken": "^5.0.2",
         "lodash": "^4.17.10",
